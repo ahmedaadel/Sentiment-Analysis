@@ -1,4 +1,12 @@
-# Sentiment-Analysis
 
-Sentiment Analysis is an AI models using 2 architectures LSTM and CNN 
-it allow the user to input a new tweet and then predict if it is  positive or negative or neural opinion about ChatGPT
+# What is it ?
+
+Sentiment Analysis is an AI model using 2 architectures LSTM and CNN 
+
+# What does it do ?
+
+This model allows the user to input a new tweet containing an opinion about ChatGPT then the model predicts if it is positive, negative, or neutral opinion.
+
+
+
+![Alt Text](https://github.com/ahmedaadel/Sentiment-Analysis/blob/main/pic.png)
